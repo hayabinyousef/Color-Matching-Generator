@@ -12,3 +12,6 @@ this project is C# win form app that generates outfit color palette based on war
 - WINDOWS FORM
 ## project status
 completed
+## Future improvements
+- improve UI design
+- Extand palette logic with data driven color rules
